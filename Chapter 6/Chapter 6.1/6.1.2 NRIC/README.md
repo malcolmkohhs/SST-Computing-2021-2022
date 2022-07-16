@@ -14,5 +14,4 @@ Use the table below, cross reference the remainder with the prefix to determine 
 |      | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------|---|---|---|---|---|---|---|---|---|---|----|
 |S or T| J | Z | I | H | G | F | E | D | C | B | A  |
-|------|---|---|---|---|---|---|---|---|---|---|----|
 |F or G| X | W | U | T | R | Q | P | N | M | L | K  |
