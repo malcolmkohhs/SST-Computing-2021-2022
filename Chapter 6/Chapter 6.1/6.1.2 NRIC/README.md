@@ -11,28 +11,8 @@ Continue next slide
 Divide total sum by 11 and get the remainder.
 Use the table below, cross reference the remainder with the prefix to determine the check digit.
 
-S or T:
-0-j
-1-Z
-2-I
-3-H
-4-G
-5-F
-6-E
-7-D
-8-C
-9-B
-10-A
-
-F or G:
-0-X
-1-W
-2-U
-3-T
-4-R
-5-Q
-6-P
-7-N
-8-M
-9-L
-10-K
+|      | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|------|---|---|---|---|---|---|---|---|---|---|----|
+|S or T| J | Z | I | H | G | F | E | D | C | B | A  |
+|------|---|---|---|---|---|---|---|---|---|---|----|
+|F or G| X | W | U | T | R | Q | P | N | M | L | K  |
